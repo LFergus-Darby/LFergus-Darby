@@ -8,5 +8,4 @@ I'm currently building my programming fundamentals and will be sharing projects 
 
 ### Currently learning
 - Java
-- Python
 - Programming fundamentals
