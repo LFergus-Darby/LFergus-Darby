@@ -1,6 +1,6 @@
 ## Hi, I'm Lewis 👋
 
-I'm an aspiring software engineer currently learning Java and Python.
+I'm an aspiring software engineer currently learning Java.
 
 My background is in digital operations and technical support, where I worked with systems, data workflows, and troubleshooting technical issues.
 
